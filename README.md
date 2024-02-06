@@ -1,4 +1,3 @@
-[![Actions Status](https://github.com/EmilMorua/python-project-83/workflows/hexlet-check/badge.svg)](https://github.com/EmilMorua/python-project-83/actions)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/fdec5588f5b97ee5b35a/test_coverage)](https://codeclimate.com/github/EmilMorua/python-project-83/test_coverage)
 [![Test and linter](https://github.com/EmilMorua/python-project-50/actions/workflows/test_and_linter.yml/badge.svg)](https://github.com/EmilMorua/python-project-50/actions/workflows/test_and_linter.yml)
 
